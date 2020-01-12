@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="222539bc-d7e8-4b37-8bda-49d5c9caf389" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WG0WQMdNNKqiy5DCxXdV5Ju3m5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="accumulator-exercise.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="222539bc-d7e8-4b37-8bda-49d5c9caf389" name="Default Changelist" comment="" />
+      <created>1578760654922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578760654922</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="562" height="411" key="GridCell.Tab.0.bottom" timestamp="1578870459107">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="562" height="411" key="GridCell.Tab.0.bottom/0.0.1920.1050/0.-1080.1920.1080@0.0.1920.1050" timestamp="1578870459107" />
+    <state width="1101" height="724" key="GridCell.Tab.0.bottom/0.0.1920.1050/967.-1090.1920.1080/-953.-1080.1920.1080@-953.-1080.1920.1080" timestamp="1578766366982" />
+    <state width="562" height="411" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578805760308" />
+    <state width="562" height="411" key="GridCell.Tab.0.center" timestamp="1578870459107">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="562" height="411" key="GridCell.Tab.0.center/0.0.1920.1050/0.-1080.1920.1080@0.0.1920.1050" timestamp="1578870459107" />
+    <state width="1101" height="724" key="GridCell.Tab.0.center/0.0.1920.1050/967.-1090.1920.1080/-953.-1080.1920.1080@-953.-1080.1920.1080" timestamp="1578766366982" />
+    <state width="562" height="411" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578805760308" />
+    <state width="562" height="411" key="GridCell.Tab.0.left" timestamp="1578870459107">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="562" height="411" key="GridCell.Tab.0.left/0.0.1920.1050/0.-1080.1920.1080@0.0.1920.1050" timestamp="1578870459107" />
+    <state width="1101" height="724" key="GridCell.Tab.0.left/0.0.1920.1050/967.-1090.1920.1080/-953.-1080.1920.1080@-953.-1080.1920.1080" timestamp="1578766366982" />
+    <state width="562" height="411" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578805760308" />
+    <state width="562" height="411" key="GridCell.Tab.0.right" timestamp="1578870459107">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="562" height="411" key="GridCell.Tab.0.right/0.0.1920.1050/0.-1080.1920.1080@0.0.1920.1050" timestamp="1578870459107" />
+    <state width="1101" height="724" key="GridCell.Tab.0.right/0.0.1920.1050/967.-1090.1920.1080/-953.-1080.1920.1080@-953.-1080.1920.1080" timestamp="1578766366982" />
+    <state width="562" height="411" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578805760308" />
+    <state x="-554" y="-954" key="SettingsEditor" timestamp="1578766447483">
+      <screen x="-953" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-554" y="-954" key="SettingsEditor/0.0.1920.1050/967.-1090.1920.1080/-953.-1080.1920.1080@-953.-1080.1920.1080" timestamp="1578766447483" />
+    <state x="-261" y="-666" key="com.intellij.ide.util.TipDialog" timestamp="1578766400299">
+      <screen x="-953" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-261" y="-666" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/967.-1090.1920.1080/-953.-1080.1920.1080@-953.-1080.1920.1080" timestamp="1578766400299" />
+    <state x="-227" y="-836" key="com.intellij.troubleshooting.ui.CollectTroubleshootingInformationDialog" timestamp="1578765367375">
+      <screen x="-953" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-227" y="-836" key="com.intellij.troubleshooting.ui.CollectTroubleshootingInformationDialog/0.0.1920.1050/967.-1090.1920.1080/-953.-1080.1920.1080@-953.-1080.1920.1080" timestamp="1578765367375" />
+    <state x="170" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1578868770220">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="170" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/0.-1080.1920.1080@0.0.1920.1050" timestamp="1578868770220" />
+  </component>
+</project>
