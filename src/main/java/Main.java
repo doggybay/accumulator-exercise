@@ -6,6 +6,8 @@ public class Main {
         int[] arr = {1, 2, 3};
         String[] arr2 = {"hello", "johnny", "its", "your", "birthday"};
         String letters = "abcde";
+        String word = "haha" +
+                "";
         ArrayList<Character> ltrList1 = new ArrayList<>();
         ltrList1.add('a');
         ltrList1.add('c');
@@ -41,6 +43,9 @@ public class Main {
 
         String result8 = reverseString(letters);
         System.out.println("reverseString: " + result8);
+
+        boolean result9 = repeats(word);
+        System.out.println("repeats: " + result9);
     }
 
     public static ArrayList<Integer> doubleNum(int[] numArr){
@@ -117,5 +122,22 @@ public class Main {
         }
 
         return newStr;
+    }
+
+    public static  boolean repeats(String str) {
+        boolean res;
+        String firstHalf = str.substring(0, str.length() / 2);
+        String secHalf = str.substring(str.length() / 2);
+
+
+        if(str.length() % 2 != 0){
+            res = false;
+        } else if(firstHalf.equals(secHalf)){
+            res = true;
+        } else {
+            res = false;
+        }
+
+        return res;
     }
 }
