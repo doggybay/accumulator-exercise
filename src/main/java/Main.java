@@ -16,6 +16,8 @@ public class Main {
         ltrList2.add('d');
         ltrList2.add('f');
 
+        String[][] arr3 = {{"2014", "Horse"}, {"2015", "Sheep"}};
+
         ArrayList<Integer> result1 = doubleNum(arr);
         System.out.println("doubleNumbers: " + result1);
 
@@ -33,6 +35,12 @@ public class Main {
 
         HashMap<String, Integer> result6 = flipArray(arr2);
         System.out.println("flipArray: " + result6);
+
+        HashMap<Integer, String> result7 = arraysToObject(arr3);
+        System.out.println("arraysToObject: " + result7);
+
+        String result8 = reverseString(letters);
+        System.out.println("reverseString: " + result8);
     }
 
     public static ArrayList<Integer> doubleNum(int[] numArr){
@@ -89,5 +97,25 @@ public class Main {
         }
 
         return obj;
+    }
+
+    public static HashMap<Integer, String> arraysToObject(String[][] arr){
+        HashMap<Integer, String> obj = new HashMap<>();
+
+        for (int i = 0; i < arr.length; i++) {
+            obj.put(Integer.parseInt(arr[i][0]), arr[i][1]);
+        }
+
+        return obj;
+    }
+
+    public static String reverseString(String str){
+        String newStr = "";
+
+        for (int i = str.length() - 1; i >= 0; i--) {
+            newStr += str.charAt(i);
+        }
+
+        return newStr;
     }
 }
