@@ -6,8 +6,10 @@ public class Main {
         int[] arr = {1, 2, 3};
         String[] arr2 = {"hello", "johnny", "its", "your", "birthday"};
         String letters = "abcde";
-        String word = "haha" +
-                "";
+        String word = "haha";
+        String letters2 = "abcdef";
+        String letters3 = "cba";
+
         ArrayList<Character> ltrList1 = new ArrayList<>();
         ltrList1.add('a');
         ltrList1.add('c');
@@ -46,6 +48,12 @@ public class Main {
 
         boolean result9 = repeats(word);
         System.out.println("repeats: " + result9);
+
+        String result10 = everyOther((letters2));
+        System.out.println("everyOther: " + result10);
+
+        boolean result11 = allEqual(letters3);
+        System.out.println(result11);
     }
 
     public static ArrayList<Integer> doubleNum(int[] numArr){
@@ -136,6 +144,31 @@ public class Main {
             res = true;
         } else {
             res = false;
+        }
+
+        return res;
+    }
+
+    public static String everyOther(String str) {
+        String newStr = "";
+        for (int i = 0; i < str.length(); i++) {
+
+            if (i % 2 == 0) {
+                newStr += str.charAt(i);
+            }
+        }
+
+        return newStr;
+    }
+
+    public static boolean allEqual(String str) {
+        Character compStr;
+        boolean res = true;
+
+        for (int i = 0; i < str.length(); i++) {
+            compStr = str.charAt(i);
+             res = compStr.equals(str.charAt(i + 1));
+
         }
 
         return res;
